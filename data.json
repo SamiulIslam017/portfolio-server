@@ -1,0 +1,61 @@
+[
+    {
+        "index": 0,
+        "link": "https://samiulislam017.github.io/g3-architects/",
+        "git_link": "https://github.com/SamiulIslam017/g3-architects",
+        "picture": "https://i.ibb.co/DwtZgCj/G3-Architects.png",
+        "name": "G3 Architecture",
+        "filters": "html",
+        "about": "This was a sample practice html css project which design choose from open source.I used raw html and css for completing project",
+        "feature" : ["HTML", "CSS3"],
+        "git_link_server":""
+    },
+    {
+        
+        "index": 1,
+        "link": "https://samiulislam017.github.io/g3-architects/",
+        "git_link": "https://samiulislam017.github.io/ai-universe/",
+        "picture": "https://i.ibb.co/SR9XHrT/Ai-Universe.png",
+        "name": "Ai Universe",
+        "filters": "javaScript",
+        "about": "This was a sample practice html css and javascript assignment project from programming hero.I used raw html, css and javaScript completing this project. Data showing with rest api whit created with fakeData",
+        "feature" : ["HTML", "CSS3", "JavaScript"],
+        "git_link_server":""
+    },
+    {
+        
+        "index": 2,
+        "link": "https://fantastic-mandazi-670774.netlify.app/",
+        "git_link": "https://github.com/SamiulIslam017/job-exploration",
+        "picture": "https://i.ibb.co/kMNzBdC/Explore-Your-Job.png",
+        "name": "Job Exploration",
+        "filters": "react",
+        "about": "This was a online job finder front-end design Website.Completed project with html ,css and react js .My own design website.I used raw html and css, And using react routing for best user experience ",
+        "feature" : ["HTML", "CSS3", "React js"],
+        "git_link_server":""
+    },
+    {
+        
+        "index": 3,
+        "link": "https://fashion-design-client.firebaseapp.com/",
+        "git_link": "https://github.com/SamiulIslam017/Summer-Camp",
+        "picture": "https://i.ibb.co/gydZfjS/Fashion-Design-Home.png",
+        "name": "Fashion Design Courses( summer Camp school)",
+        "filters": "react",
+        "about": "This a basically a online course platform for summer vacation student.This full site create with MERN stack. There a some admin role. If any user register our site by default there role was student. If admin want then he can make user as an instructor.Instructor can add courses, update courses,or delete course from client site.When they upload courses by default status of course will pending.When admin approve course then this course will show ui and instructor dashboard also with status update.If admin deny course then admin can add feedback why he or she deny the course.This feedback will show in instructors dashboard with deny status with admin feedback",
+        "feature" : ["React js", "Firebase", "React components", "mongoDb", "express", "JWT"],
+        "git_link_server":"https://github.com/SamiulIslam017/summer-camp-server/tree/main/fashio-design-server"
+    },
+    {
+        
+        "index": 4,
+        "link": "https://kids-toy-vendor.web.app/",
+        "git_link": "https://github.com/SamiulIslam017/Kids-toys-vendor",
+        "picture": "https://i.ibb.co/gj34gSS/Kids-Toy-Vendor.png",
+        "name": "Kids toy vendor( Only for seller )",
+        "filters": "react",
+        "about": "This a kid toy vendor site only for seller.When seller login with there seller account then he or she can able to upload a product update a product or delete a product in client side.Other wish they can access those feature.Without Login they can only able to show all seller product. There are some private route if seller want to see his products then he or she must be login first to see there product (If they upload before)",
+        "feature" : ["React js", "Firebase", "React components", "mongoDb", "Express","Custom Api"],
+        "git_link_server":"https://github.com/SamiulIslam017/Kids-toys-vendor-server"
+    }
+]
